@@ -1,0 +1,28 @@
+S:\Escritorio\Dotnet - Optativa\Ejercicios\CalculadoraDeImpuestos\bin\Debug\net9.0\CalculadoraDeImpuestos.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\CalculadoraDeImpuestos\bin\Debug\net9.0\CalculadoraDeImpuestos.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\CalculadoraDeImpuestos\bin\Debug\net9.0\CalculadoraDeImpuestos.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\CalculadoraDeImpuestos\bin\Debug\net9.0\CalculadoraDeImpuestos.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\CalculadoraDeImpuestos\bin\Debug\net9.0\CalculadoraDeImpuestos.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\CalculadoraDeImpuestos\obj\Debug\net9.0\CalculadoraDeImpuestos.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\CalculadoraDeImpuestos\obj\Debug\net9.0\CalculadoraDeImpuestos.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\CalculadoraDeImpuestos\obj\Debug\net9.0\CalculadoraDeImpuestos.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\CalculadoraDeImpuestos\obj\Debug\net9.0\CalculadoraDeImpuestos.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\CalculadoraDeImpuestos\obj\Debug\net9.0\CalculadoraDeImpuestos.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\CalculadoraDeImpuestos\obj\Debug\net9.0\refint\CalculadoraDeImpuestos.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\CalculadoraDeImpuestos\obj\Debug\net9.0\CalculadoraDeImpuestos.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\CalculadoraDeImpuestos\obj\Debug\net9.0\CalculadoraDeImpuestos.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\CalculadoraDeImpuestos\obj\Debug\net9.0\ref\CalculadoraDeImpuestos.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\6. CalculadoraDeImpuestos\bin\Debug\net9.0\CalculadoraDeImpuestos.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\6. CalculadoraDeImpuestos\bin\Debug\net9.0\CalculadoraDeImpuestos.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\6. CalculadoraDeImpuestos\bin\Debug\net9.0\CalculadoraDeImpuestos.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\6. CalculadoraDeImpuestos\bin\Debug\net9.0\CalculadoraDeImpuestos.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\6. CalculadoraDeImpuestos\bin\Debug\net9.0\CalculadoraDeImpuestos.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\6. CalculadoraDeImpuestos\obj\Debug\net9.0\CalculadoraDeImpuestos.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\6. CalculadoraDeImpuestos\obj\Debug\net9.0\CalculadoraDeImpuestos.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\6. CalculadoraDeImpuestos\obj\Debug\net9.0\CalculadoraDeImpuestos.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\6. CalculadoraDeImpuestos\obj\Debug\net9.0\CalculadoraDeImpuestos.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\6. CalculadoraDeImpuestos\obj\Debug\net9.0\CalculadoraDeImpuestos.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\6. CalculadoraDeImpuestos\obj\Debug\net9.0\refint\CalculadoraDeImpuestos.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\6. CalculadoraDeImpuestos\obj\Debug\net9.0\CalculadoraDeImpuestos.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\6. CalculadoraDeImpuestos\obj\Debug\net9.0\CalculadoraDeImpuestos.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\6. CalculadoraDeImpuestos\obj\Debug\net9.0\ref\CalculadoraDeImpuestos.dll

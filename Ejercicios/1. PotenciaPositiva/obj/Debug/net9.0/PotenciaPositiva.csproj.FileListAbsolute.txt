@@ -1,0 +1,28 @@
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PotenciaPositiva\bin\Debug\net9.0\PotenciaPositiva.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PotenciaPositiva\bin\Debug\net9.0\PotenciaPositiva.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PotenciaPositiva\bin\Debug\net9.0\PotenciaPositiva.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PotenciaPositiva\bin\Debug\net9.0\PotenciaPositiva.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PotenciaPositiva\bin\Debug\net9.0\PotenciaPositiva.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PotenciaPositiva\obj\Debug\net9.0\PotenciaPositiva.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PotenciaPositiva\obj\Debug\net9.0\PotenciaPositiva.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PotenciaPositiva\obj\Debug\net9.0\PotenciaPositiva.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PotenciaPositiva\obj\Debug\net9.0\PotenciaPositiva.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PotenciaPositiva\obj\Debug\net9.0\PotenciaPositiva.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PotenciaPositiva\obj\Debug\net9.0\refint\PotenciaPositiva.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PotenciaPositiva\obj\Debug\net9.0\PotenciaPositiva.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PotenciaPositiva\obj\Debug\net9.0\PotenciaPositiva.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PotenciaPositiva\obj\Debug\net9.0\ref\PotenciaPositiva.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\1. PotenciaPositiva\bin\Debug\net9.0\PotenciaPositiva.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\1. PotenciaPositiva\bin\Debug\net9.0\PotenciaPositiva.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\1. PotenciaPositiva\bin\Debug\net9.0\PotenciaPositiva.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\1. PotenciaPositiva\bin\Debug\net9.0\PotenciaPositiva.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\1. PotenciaPositiva\bin\Debug\net9.0\PotenciaPositiva.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\1. PotenciaPositiva\obj\Debug\net9.0\PotenciaPositiva.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\1. PotenciaPositiva\obj\Debug\net9.0\PotenciaPositiva.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\1. PotenciaPositiva\obj\Debug\net9.0\PotenciaPositiva.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\1. PotenciaPositiva\obj\Debug\net9.0\PotenciaPositiva.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\1. PotenciaPositiva\obj\Debug\net9.0\PotenciaPositiva.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\1. PotenciaPositiva\obj\Debug\net9.0\refint\PotenciaPositiva.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\1. PotenciaPositiva\obj\Debug\net9.0\PotenciaPositiva.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\1. PotenciaPositiva\obj\Debug\net9.0\PotenciaPositiva.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\1. PotenciaPositiva\obj\Debug\net9.0\ref\PotenciaPositiva.dll

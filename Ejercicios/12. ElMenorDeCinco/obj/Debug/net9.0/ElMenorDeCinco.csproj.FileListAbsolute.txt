@@ -1,0 +1,28 @@
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ElMenorDeCinco\bin\Debug\net9.0\ElMenorDeCinco.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ElMenorDeCinco\bin\Debug\net9.0\ElMenorDeCinco.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ElMenorDeCinco\bin\Debug\net9.0\ElMenorDeCinco.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ElMenorDeCinco\bin\Debug\net9.0\ElMenorDeCinco.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ElMenorDeCinco\bin\Debug\net9.0\ElMenorDeCinco.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ElMenorDeCinco\obj\Debug\net9.0\ElMenorDeCinco.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ElMenorDeCinco\obj\Debug\net9.0\ElMenorDeCinco.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ElMenorDeCinco\obj\Debug\net9.0\ElMenorDeCinco.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ElMenorDeCinco\obj\Debug\net9.0\ElMenorDeCinco.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ElMenorDeCinco\obj\Debug\net9.0\ElMenorDeCinco.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ElMenorDeCinco\obj\Debug\net9.0\refint\ElMenorDeCinco.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ElMenorDeCinco\obj\Debug\net9.0\ElMenorDeCinco.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ElMenorDeCinco\obj\Debug\net9.0\ElMenorDeCinco.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ElMenorDeCinco\obj\Debug\net9.0\ref\ElMenorDeCinco.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\12. ElMenorDeCinco\bin\Debug\net9.0\ElMenorDeCinco.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\12. ElMenorDeCinco\bin\Debug\net9.0\ElMenorDeCinco.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\12. ElMenorDeCinco\bin\Debug\net9.0\ElMenorDeCinco.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\12. ElMenorDeCinco\bin\Debug\net9.0\ElMenorDeCinco.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\12. ElMenorDeCinco\bin\Debug\net9.0\ElMenorDeCinco.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\12. ElMenorDeCinco\obj\Debug\net9.0\ElMenorDeCinco.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\12. ElMenorDeCinco\obj\Debug\net9.0\ElMenorDeCinco.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\12. ElMenorDeCinco\obj\Debug\net9.0\ElMenorDeCinco.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\12. ElMenorDeCinco\obj\Debug\net9.0\ElMenorDeCinco.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\12. ElMenorDeCinco\obj\Debug\net9.0\ElMenorDeCinco.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\12. ElMenorDeCinco\obj\Debug\net9.0\refint\ElMenorDeCinco.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\12. ElMenorDeCinco\obj\Debug\net9.0\ElMenorDeCinco.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\12. ElMenorDeCinco\obj\Debug\net9.0\ElMenorDeCinco.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\12. ElMenorDeCinco\obj\Debug\net9.0\ref\ElMenorDeCinco.dll

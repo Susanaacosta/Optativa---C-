@@ -1,0 +1,28 @@
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PerimetroDelCirculo\bin\Debug\net9.0\PerimetroDelCirculo.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PerimetroDelCirculo\bin\Debug\net9.0\PerimetroDelCirculo.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PerimetroDelCirculo\bin\Debug\net9.0\PerimetroDelCirculo.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PerimetroDelCirculo\bin\Debug\net9.0\PerimetroDelCirculo.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PerimetroDelCirculo\bin\Debug\net9.0\PerimetroDelCirculo.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PerimetroDelCirculo\obj\Debug\net9.0\PerimetroDelCirculo.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PerimetroDelCirculo\obj\Debug\net9.0\PerimetroDelCirculo.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PerimetroDelCirculo\obj\Debug\net9.0\PerimetroDelCirculo.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PerimetroDelCirculo\obj\Debug\net9.0\PerimetroDelCirculo.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PerimetroDelCirculo\obj\Debug\net9.0\PerimetroDelCirculo.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PerimetroDelCirculo\obj\Debug\net9.0\refint\PerimetroDelCirculo.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PerimetroDelCirculo\obj\Debug\net9.0\PerimetroDelCirculo.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PerimetroDelCirculo\obj\Debug\net9.0\PerimetroDelCirculo.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PerimetroDelCirculo\obj\Debug\net9.0\ref\PerimetroDelCirculo.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\4. PerimetroDelCirculo\bin\Debug\net9.0\PerimetroDelCirculo.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\4. PerimetroDelCirculo\bin\Debug\net9.0\PerimetroDelCirculo.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\4. PerimetroDelCirculo\bin\Debug\net9.0\PerimetroDelCirculo.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\4. PerimetroDelCirculo\bin\Debug\net9.0\PerimetroDelCirculo.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\4. PerimetroDelCirculo\bin\Debug\net9.0\PerimetroDelCirculo.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\4. PerimetroDelCirculo\obj\Debug\net9.0\PerimetroDelCirculo.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\4. PerimetroDelCirculo\obj\Debug\net9.0\PerimetroDelCirculo.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\4. PerimetroDelCirculo\obj\Debug\net9.0\PerimetroDelCirculo.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\4. PerimetroDelCirculo\obj\Debug\net9.0\PerimetroDelCirculo.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\4. PerimetroDelCirculo\obj\Debug\net9.0\PerimetroDelCirculo.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\4. PerimetroDelCirculo\obj\Debug\net9.0\refint\PerimetroDelCirculo.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\4. PerimetroDelCirculo\obj\Debug\net9.0\PerimetroDelCirculo.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\4. PerimetroDelCirculo\obj\Debug\net9.0\PerimetroDelCirculo.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\4. PerimetroDelCirculo\obj\Debug\net9.0\ref\PerimetroDelCirculo.dll

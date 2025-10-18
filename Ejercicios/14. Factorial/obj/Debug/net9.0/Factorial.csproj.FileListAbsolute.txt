@@ -1,0 +1,28 @@
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Factorial\bin\Debug\net9.0\Factorial.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Factorial\bin\Debug\net9.0\Factorial.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Factorial\bin\Debug\net9.0\Factorial.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Factorial\bin\Debug\net9.0\Factorial.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Factorial\bin\Debug\net9.0\Factorial.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Factorial\obj\Debug\net9.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Factorial\obj\Debug\net9.0\Factorial.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Factorial\obj\Debug\net9.0\Factorial.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Factorial\obj\Debug\net9.0\Factorial.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Factorial\obj\Debug\net9.0\Factorial.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Factorial\obj\Debug\net9.0\refint\Factorial.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Factorial\obj\Debug\net9.0\Factorial.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Factorial\obj\Debug\net9.0\Factorial.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Factorial\obj\Debug\net9.0\ref\Factorial.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\14. Factorial\bin\Debug\net9.0\Factorial.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\14. Factorial\bin\Debug\net9.0\Factorial.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\14. Factorial\bin\Debug\net9.0\Factorial.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\14. Factorial\bin\Debug\net9.0\Factorial.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\14. Factorial\bin\Debug\net9.0\Factorial.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\14. Factorial\obj\Debug\net9.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\14. Factorial\obj\Debug\net9.0\Factorial.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\14. Factorial\obj\Debug\net9.0\Factorial.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\14. Factorial\obj\Debug\net9.0\Factorial.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\14. Factorial\obj\Debug\net9.0\Factorial.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\14. Factorial\obj\Debug\net9.0\refint\Factorial.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\14. Factorial\obj\Debug\net9.0\Factorial.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\14. Factorial\obj\Debug\net9.0\Factorial.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\14. Factorial\obj\Debug\net9.0\ref\Factorial.dll

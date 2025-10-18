@@ -1,0 +1,28 @@
+S:\Escritorio\Dotnet - Optativa\Ejercicios\LongitudDeLaPalabra\bin\Debug\net9.0\LongitudDeLaPalabra.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\LongitudDeLaPalabra\bin\Debug\net9.0\LongitudDeLaPalabra.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\LongitudDeLaPalabra\bin\Debug\net9.0\LongitudDeLaPalabra.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\LongitudDeLaPalabra\bin\Debug\net9.0\LongitudDeLaPalabra.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\LongitudDeLaPalabra\bin\Debug\net9.0\LongitudDeLaPalabra.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\LongitudDeLaPalabra\obj\Debug\net9.0\LongitudDeLaPalabra.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\LongitudDeLaPalabra\obj\Debug\net9.0\LongitudDeLaPalabra.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\LongitudDeLaPalabra\obj\Debug\net9.0\LongitudDeLaPalabra.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\LongitudDeLaPalabra\obj\Debug\net9.0\LongitudDeLaPalabra.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\LongitudDeLaPalabra\obj\Debug\net9.0\LongitudDeLaPalabra.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\LongitudDeLaPalabra\obj\Debug\net9.0\refint\LongitudDeLaPalabra.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\LongitudDeLaPalabra\obj\Debug\net9.0\LongitudDeLaPalabra.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\LongitudDeLaPalabra\obj\Debug\net9.0\LongitudDeLaPalabra.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\LongitudDeLaPalabra\obj\Debug\net9.0\ref\LongitudDeLaPalabra.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\10. LongitudDeLaPalabra\bin\Debug\net9.0\LongitudDeLaPalabra.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\10. LongitudDeLaPalabra\bin\Debug\net9.0\LongitudDeLaPalabra.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\10. LongitudDeLaPalabra\bin\Debug\net9.0\LongitudDeLaPalabra.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\10. LongitudDeLaPalabra\bin\Debug\net9.0\LongitudDeLaPalabra.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\10. LongitudDeLaPalabra\bin\Debug\net9.0\LongitudDeLaPalabra.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\10. LongitudDeLaPalabra\obj\Debug\net9.0\LongitudDeLaPalabra.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\10. LongitudDeLaPalabra\obj\Debug\net9.0\LongitudDeLaPalabra.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\10. LongitudDeLaPalabra\obj\Debug\net9.0\LongitudDeLaPalabra.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\10. LongitudDeLaPalabra\obj\Debug\net9.0\LongitudDeLaPalabra.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\10. LongitudDeLaPalabra\obj\Debug\net9.0\LongitudDeLaPalabra.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\10. LongitudDeLaPalabra\obj\Debug\net9.0\refint\LongitudDeLaPalabra.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\10. LongitudDeLaPalabra\obj\Debug\net9.0\LongitudDeLaPalabra.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\10. LongitudDeLaPalabra\obj\Debug\net9.0\LongitudDeLaPalabra.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\10. LongitudDeLaPalabra\obj\Debug\net9.0\ref\LongitudDeLaPalabra.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DobleOTriple/1.0.0": {
+        "runtime": {
+          "DobleOTriple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DobleOTriple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

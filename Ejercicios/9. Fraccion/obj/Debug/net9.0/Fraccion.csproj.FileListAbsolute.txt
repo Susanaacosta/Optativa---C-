@@ -1,0 +1,28 @@
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Fraccion\bin\Debug\net9.0\Fraccion.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Fraccion\bin\Debug\net9.0\Fraccion.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Fraccion\bin\Debug\net9.0\Fraccion.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Fraccion\bin\Debug\net9.0\Fraccion.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Fraccion\bin\Debug\net9.0\Fraccion.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Fraccion\obj\Debug\net9.0\Fraccion.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Fraccion\obj\Debug\net9.0\Fraccion.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Fraccion\obj\Debug\net9.0\Fraccion.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Fraccion\obj\Debug\net9.0\Fraccion.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Fraccion\obj\Debug\net9.0\Fraccion.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Fraccion\obj\Debug\net9.0\refint\Fraccion.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Fraccion\obj\Debug\net9.0\Fraccion.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Fraccion\obj\Debug\net9.0\Fraccion.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\Fraccion\obj\Debug\net9.0\ref\Fraccion.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\9. Fraccion\bin\Debug\net9.0\Fraccion.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\9. Fraccion\bin\Debug\net9.0\Fraccion.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\9. Fraccion\bin\Debug\net9.0\Fraccion.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\9. Fraccion\bin\Debug\net9.0\Fraccion.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\9. Fraccion\bin\Debug\net9.0\Fraccion.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\9. Fraccion\obj\Debug\net9.0\Fraccion.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\9. Fraccion\obj\Debug\net9.0\Fraccion.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\9. Fraccion\obj\Debug\net9.0\Fraccion.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\9. Fraccion\obj\Debug\net9.0\Fraccion.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\9. Fraccion\obj\Debug\net9.0\Fraccion.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\9. Fraccion\obj\Debug\net9.0\refint\Fraccion.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\9. Fraccion\obj\Debug\net9.0\Fraccion.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\9. Fraccion\obj\Debug\net9.0\Fraccion.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\9. Fraccion\obj\Debug\net9.0\ref\Fraccion.dll

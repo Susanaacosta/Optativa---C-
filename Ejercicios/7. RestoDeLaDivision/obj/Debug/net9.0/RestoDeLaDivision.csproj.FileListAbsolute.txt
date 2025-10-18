@@ -1,0 +1,28 @@
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RestoDeLaDivision\bin\Debug\net9.0\RestoDeLaDivision.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RestoDeLaDivision\bin\Debug\net9.0\RestoDeLaDivision.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RestoDeLaDivision\bin\Debug\net9.0\RestoDeLaDivision.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RestoDeLaDivision\bin\Debug\net9.0\RestoDeLaDivision.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RestoDeLaDivision\bin\Debug\net9.0\RestoDeLaDivision.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RestoDeLaDivision\obj\Debug\net9.0\RestoDeLaDivision.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RestoDeLaDivision\obj\Debug\net9.0\RestoDeLaDivision.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RestoDeLaDivision\obj\Debug\net9.0\RestoDeLaDivision.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RestoDeLaDivision\obj\Debug\net9.0\RestoDeLaDivision.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RestoDeLaDivision\obj\Debug\net9.0\RestoDeLaDivision.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RestoDeLaDivision\obj\Debug\net9.0\refint\RestoDeLaDivision.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RestoDeLaDivision\obj\Debug\net9.0\RestoDeLaDivision.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RestoDeLaDivision\obj\Debug\net9.0\RestoDeLaDivision.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RestoDeLaDivision\obj\Debug\net9.0\ref\RestoDeLaDivision.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\7. RestoDeLaDivision\bin\Debug\net9.0\RestoDeLaDivision.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\7. RestoDeLaDivision\bin\Debug\net9.0\RestoDeLaDivision.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\7. RestoDeLaDivision\bin\Debug\net9.0\RestoDeLaDivision.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\7. RestoDeLaDivision\bin\Debug\net9.0\RestoDeLaDivision.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\7. RestoDeLaDivision\bin\Debug\net9.0\RestoDeLaDivision.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\7. RestoDeLaDivision\obj\Debug\net9.0\RestoDeLaDivision.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\7. RestoDeLaDivision\obj\Debug\net9.0\RestoDeLaDivision.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\7. RestoDeLaDivision\obj\Debug\net9.0\RestoDeLaDivision.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\7. RestoDeLaDivision\obj\Debug\net9.0\RestoDeLaDivision.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\7. RestoDeLaDivision\obj\Debug\net9.0\RestoDeLaDivision.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\7. RestoDeLaDivision\obj\Debug\net9.0\refint\RestoDeLaDivision.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\7. RestoDeLaDivision\obj\Debug\net9.0\RestoDeLaDivision.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\7. RestoDeLaDivision\obj\Debug\net9.0\RestoDeLaDivision.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\7. RestoDeLaDivision\obj\Debug\net9.0\ref\RestoDeLaDivision.dll

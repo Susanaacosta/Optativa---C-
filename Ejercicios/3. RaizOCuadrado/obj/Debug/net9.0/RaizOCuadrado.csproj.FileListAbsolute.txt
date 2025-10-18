@@ -1,0 +1,28 @@
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RaizOCuadrado\bin\Debug\net9.0\RaizOCuadrado.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RaizOCuadrado\bin\Debug\net9.0\RaizOCuadrado.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RaizOCuadrado\bin\Debug\net9.0\RaizOCuadrado.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RaizOCuadrado\bin\Debug\net9.0\RaizOCuadrado.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RaizOCuadrado\bin\Debug\net9.0\RaizOCuadrado.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RaizOCuadrado\obj\Debug\net9.0\RaizOCuadrado.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RaizOCuadrado\obj\Debug\net9.0\RaizOCuadrado.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RaizOCuadrado\obj\Debug\net9.0\RaizOCuadrado.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RaizOCuadrado\obj\Debug\net9.0\RaizOCuadrado.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RaizOCuadrado\obj\Debug\net9.0\RaizOCuadrado.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RaizOCuadrado\obj\Debug\net9.0\refint\RaizOCuadrado.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RaizOCuadrado\obj\Debug\net9.0\RaizOCuadrado.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RaizOCuadrado\obj\Debug\net9.0\RaizOCuadrado.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\RaizOCuadrado\obj\Debug\net9.0\ref\RaizOCuadrado.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\3. RaizOCuadrado\bin\Debug\net9.0\RaizOCuadrado.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\3. RaizOCuadrado\bin\Debug\net9.0\RaizOCuadrado.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\3. RaizOCuadrado\bin\Debug\net9.0\RaizOCuadrado.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\3. RaizOCuadrado\bin\Debug\net9.0\RaizOCuadrado.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\3. RaizOCuadrado\bin\Debug\net9.0\RaizOCuadrado.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\3. RaizOCuadrado\obj\Debug\net9.0\RaizOCuadrado.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\3. RaizOCuadrado\obj\Debug\net9.0\RaizOCuadrado.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\3. RaizOCuadrado\obj\Debug\net9.0\RaizOCuadrado.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\3. RaizOCuadrado\obj\Debug\net9.0\RaizOCuadrado.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\3. RaizOCuadrado\obj\Debug\net9.0\RaizOCuadrado.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\3. RaizOCuadrado\obj\Debug\net9.0\refint\RaizOCuadrado.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\3. RaizOCuadrado\obj\Debug\net9.0\RaizOCuadrado.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\3. RaizOCuadrado\obj\Debug\net9.0\RaizOCuadrado.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\3. RaizOCuadrado\obj\Debug\net9.0\ref\RaizOCuadrado.dll

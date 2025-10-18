@@ -1,0 +1,14 @@
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ContadorDeVocales\bin\Debug\net9.0\ContadorDeVocales.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ContadorDeVocales\bin\Debug\net9.0\ContadorDeVocales.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ContadorDeVocales\bin\Debug\net9.0\ContadorDeVocales.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ContadorDeVocales\bin\Debug\net9.0\ContadorDeVocales.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ContadorDeVocales\bin\Debug\net9.0\ContadorDeVocales.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ContadorDeVocales\obj\Debug\net9.0\ContadorDeVocales.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ContadorDeVocales\obj\Debug\net9.0\ContadorDeVocales.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ContadorDeVocales\obj\Debug\net9.0\ContadorDeVocales.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ContadorDeVocales\obj\Debug\net9.0\ContadorDeVocales.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ContadorDeVocales\obj\Debug\net9.0\ContadorDeVocales.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ContadorDeVocales\obj\Debug\net9.0\refint\ContadorDeVocales.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ContadorDeVocales\obj\Debug\net9.0\ContadorDeVocales.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ContadorDeVocales\obj\Debug\net9.0\ContadorDeVocales.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ContadorDeVocales\obj\Debug\net9.0\ref\ContadorDeVocales.dll

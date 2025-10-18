@@ -1,0 +1,28 @@
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DobleOTriple\bin\Debug\net9.0\DobleOTriple.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DobleOTriple\bin\Debug\net9.0\DobleOTriple.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DobleOTriple\bin\Debug\net9.0\DobleOTriple.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DobleOTriple\bin\Debug\net9.0\DobleOTriple.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DobleOTriple\bin\Debug\net9.0\DobleOTriple.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DobleOTriple\obj\Debug\net9.0\DobleOTriple.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DobleOTriple\obj\Debug\net9.0\DobleOTriple.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DobleOTriple\obj\Debug\net9.0\DobleOTriple.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DobleOTriple\obj\Debug\net9.0\DobleOTriple.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DobleOTriple\obj\Debug\net9.0\DobleOTriple.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DobleOTriple\obj\Debug\net9.0\refint\DobleOTriple.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DobleOTriple\obj\Debug\net9.0\DobleOTriple.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DobleOTriple\obj\Debug\net9.0\DobleOTriple.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DobleOTriple\obj\Debug\net9.0\ref\DobleOTriple.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\2. DobleOTriple\bin\Debug\net9.0\DobleOTriple.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\2. DobleOTriple\bin\Debug\net9.0\DobleOTriple.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\2. DobleOTriple\bin\Debug\net9.0\DobleOTriple.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\2. DobleOTriple\bin\Debug\net9.0\DobleOTriple.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\2. DobleOTriple\bin\Debug\net9.0\DobleOTriple.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\2. DobleOTriple\obj\Debug\net9.0\DobleOTriple.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\2. DobleOTriple\obj\Debug\net9.0\DobleOTriple.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\2. DobleOTriple\obj\Debug\net9.0\DobleOTriple.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\2. DobleOTriple\obj\Debug\net9.0\DobleOTriple.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\2. DobleOTriple\obj\Debug\net9.0\DobleOTriple.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\2. DobleOTriple\obj\Debug\net9.0\refint\DobleOTriple.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\2. DobleOTriple\obj\Debug\net9.0\DobleOTriple.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\2. DobleOTriple\obj\Debug\net9.0\DobleOTriple.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\2. DobleOTriple\obj\Debug\net9.0\ref\DobleOTriple.dll

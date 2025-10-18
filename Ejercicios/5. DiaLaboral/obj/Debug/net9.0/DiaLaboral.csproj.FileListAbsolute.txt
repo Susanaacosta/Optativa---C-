@@ -1,0 +1,28 @@
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DiaLaboral\bin\Debug\net9.0\DiaLaboral.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DiaLaboral\bin\Debug\net9.0\DiaLaboral.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DiaLaboral\bin\Debug\net9.0\DiaLaboral.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DiaLaboral\bin\Debug\net9.0\DiaLaboral.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DiaLaboral\bin\Debug\net9.0\DiaLaboral.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DiaLaboral\obj\Debug\net9.0\DiaLaboral.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DiaLaboral\obj\Debug\net9.0\DiaLaboral.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DiaLaboral\obj\Debug\net9.0\DiaLaboral.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DiaLaboral\obj\Debug\net9.0\DiaLaboral.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DiaLaboral\obj\Debug\net9.0\DiaLaboral.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DiaLaboral\obj\Debug\net9.0\refint\DiaLaboral.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DiaLaboral\obj\Debug\net9.0\DiaLaboral.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DiaLaboral\obj\Debug\net9.0\DiaLaboral.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\DiaLaboral\obj\Debug\net9.0\ref\DiaLaboral.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\5. DiaLaboral\bin\Debug\net9.0\DiaLaboral.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\5. DiaLaboral\bin\Debug\net9.0\DiaLaboral.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\5. DiaLaboral\bin\Debug\net9.0\DiaLaboral.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\5. DiaLaboral\bin\Debug\net9.0\DiaLaboral.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\5. DiaLaboral\bin\Debug\net9.0\DiaLaboral.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\5. DiaLaboral\obj\Debug\net9.0\DiaLaboral.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\5. DiaLaboral\obj\Debug\net9.0\DiaLaboral.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\5. DiaLaboral\obj\Debug\net9.0\DiaLaboral.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\5. DiaLaboral\obj\Debug\net9.0\DiaLaboral.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\5. DiaLaboral\obj\Debug\net9.0\DiaLaboral.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\5. DiaLaboral\obj\Debug\net9.0\refint\DiaLaboral.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\5. DiaLaboral\obj\Debug\net9.0\DiaLaboral.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\5. DiaLaboral\obj\Debug\net9.0\DiaLaboral.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\5. DiaLaboral\obj\Debug\net9.0\ref\DiaLaboral.dll

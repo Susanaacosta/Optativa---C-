@@ -1,0 +1,14 @@
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ValidadorDeRango\bin\Debug\net9.0\ValidadorDeRango.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ValidadorDeRango\bin\Debug\net9.0\ValidadorDeRango.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ValidadorDeRango\bin\Debug\net9.0\ValidadorDeRango.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ValidadorDeRango\bin\Debug\net9.0\ValidadorDeRango.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ValidadorDeRango\bin\Debug\net9.0\ValidadorDeRango.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ValidadorDeRango\obj\Debug\net9.0\ValidadorDeRango.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ValidadorDeRango\obj\Debug\net9.0\ValidadorDeRango.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ValidadorDeRango\obj\Debug\net9.0\ValidadorDeRango.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ValidadorDeRango\obj\Debug\net9.0\ValidadorDeRango.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ValidadorDeRango\obj\Debug\net9.0\ValidadorDeRango.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ValidadorDeRango\obj\Debug\net9.0\refint\ValidadorDeRango.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ValidadorDeRango\obj\Debug\net9.0\ValidadorDeRango.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ValidadorDeRango\obj\Debug\net9.0\ValidadorDeRango.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\ValidadorDeRango\obj\Debug\net9.0\ref\ValidadorDeRango.dll

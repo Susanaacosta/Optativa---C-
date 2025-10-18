@@ -1,0 +1,28 @@
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PromedioDeCuatro\bin\Debug\net9.0\PromedioDeCuatro.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PromedioDeCuatro\bin\Debug\net9.0\PromedioDeCuatro.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PromedioDeCuatro\bin\Debug\net9.0\PromedioDeCuatro.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PromedioDeCuatro\bin\Debug\net9.0\PromedioDeCuatro.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PromedioDeCuatro\bin\Debug\net9.0\PromedioDeCuatro.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PromedioDeCuatro\obj\Debug\net9.0\PromedioDeCuatro.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PromedioDeCuatro\obj\Debug\net9.0\PromedioDeCuatro.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PromedioDeCuatro\obj\Debug\net9.0\PromedioDeCuatro.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PromedioDeCuatro\obj\Debug\net9.0\PromedioDeCuatro.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PromedioDeCuatro\obj\Debug\net9.0\PromedioDeCuatro.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PromedioDeCuatro\obj\Debug\net9.0\refint\PromedioDeCuatro.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PromedioDeCuatro\obj\Debug\net9.0\PromedioDeCuatro.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PromedioDeCuatro\obj\Debug\net9.0\PromedioDeCuatro.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\PromedioDeCuatro\obj\Debug\net9.0\ref\PromedioDeCuatro.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\11. PromedioDeCuatro\bin\Debug\net9.0\PromedioDeCuatro.exe
+S:\Escritorio\Dotnet - Optativa\Ejercicios\11. PromedioDeCuatro\bin\Debug\net9.0\PromedioDeCuatro.deps.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\11. PromedioDeCuatro\bin\Debug\net9.0\PromedioDeCuatro.runtimeconfig.json
+S:\Escritorio\Dotnet - Optativa\Ejercicios\11. PromedioDeCuatro\bin\Debug\net9.0\PromedioDeCuatro.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\11. PromedioDeCuatro\bin\Debug\net9.0\PromedioDeCuatro.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\11. PromedioDeCuatro\obj\Debug\net9.0\PromedioDeCuatro.GeneratedMSBuildEditorConfig.editorconfig
+S:\Escritorio\Dotnet - Optativa\Ejercicios\11. PromedioDeCuatro\obj\Debug\net9.0\PromedioDeCuatro.AssemblyInfoInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\11. PromedioDeCuatro\obj\Debug\net9.0\PromedioDeCuatro.AssemblyInfo.cs
+S:\Escritorio\Dotnet - Optativa\Ejercicios\11. PromedioDeCuatro\obj\Debug\net9.0\PromedioDeCuatro.csproj.CoreCompileInputs.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\11. PromedioDeCuatro\obj\Debug\net9.0\PromedioDeCuatro.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\11. PromedioDeCuatro\obj\Debug\net9.0\refint\PromedioDeCuatro.dll
+S:\Escritorio\Dotnet - Optativa\Ejercicios\11. PromedioDeCuatro\obj\Debug\net9.0\PromedioDeCuatro.pdb
+S:\Escritorio\Dotnet - Optativa\Ejercicios\11. PromedioDeCuatro\obj\Debug\net9.0\PromedioDeCuatro.genruntimeconfig.cache
+S:\Escritorio\Dotnet - Optativa\Ejercicios\11. PromedioDeCuatro\obj\Debug\net9.0\ref\PromedioDeCuatro.dll
